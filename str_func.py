@@ -6,3 +6,4 @@ def upper_letter(string):
 def title_letter(string):
     """Делает заглавными первые буквы каждого слова в строке"""
     return string.title()
+# Добавлены минимальные улучшения
